@@ -1,1 +1,1 @@
-# SyntaC-
+# SyntaC++
